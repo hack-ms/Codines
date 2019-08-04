@@ -37,15 +37,15 @@ class DetalharVerba extends Component {
           </H3>
 
           <Text style={{ fontWeight: "500", fontSize: 16, marginVertical: 10 }}>
-            Valor Total: 0000,00
+            Valor Total: 1.325.290,00
           </Text>
 
           <Text style={{ fontWeight: "500", fontSize: 16, marginVertical: 10 }}>
-            Valor Desconto: 0000,00
+            Valor Desconto: 1.325.290,00
           </Text>
 
           <Text style={{ fontWeight: "500", fontSize: 16, marginVertical: 10 }}>
-            Valor Liquidado: 0000,00
+            Valor Liquidado: 1.300.000,00
           </Text>
         </Container>
         <View style={{ borderBottomWidth: 1, borderBottomColor: "#000" }} />
