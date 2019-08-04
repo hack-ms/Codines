@@ -20,7 +20,7 @@ const style = StyleSheet.create({
     flex: 1,
     flexDirection: 'column',
     borderRadius: 8,
-    maxHeight: 110,
+    height: 110,
     minWidth: 130,
   },
 });

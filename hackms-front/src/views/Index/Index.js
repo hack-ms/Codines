@@ -5,6 +5,7 @@ import {Container, H3} from "native-base";
 import MainContainer from "../../components/MainContainer";
 import CategoriasList from "./components/CategoriasList";
 import EmpresaParceira from "./components/EmpresaParceira";
+import Selos from "./components/Selos";
 
 class Index extends Component {
   static navigationOptions = {
@@ -16,11 +17,14 @@ class Index extends Component {
         <Container style={style.container}>
           <H3 style={{marginVertical: 16, marginLeft: 16}}>Categoria de Serviço</H3>
           <Grid>
-            <Row size={10}>
+            <Row size={2}>
               <CategoriasList/>
             </Row>
-            <Row size={25}>
+            <Row size={3}>
               <EmpresaParceira/>
+            </Row>
+            <Row size={5}>
+              <Selos/>
             </Row>
           </Grid>
         </Container>
