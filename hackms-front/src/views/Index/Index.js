@@ -18,7 +18,7 @@ class Index extends Component {
           <H3 style={{marginVertical: 16, marginLeft: 16}}>Categoria de Serviço</H3>
           <Grid>
             <Row size={2}>
-              <CategoriasList/>
+              <CategoriasList navigation={this.props.navigation}/>
             </Row>
             <Row size={3}>
               <EmpresaParceira/>
