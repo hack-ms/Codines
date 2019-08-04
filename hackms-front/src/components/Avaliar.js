@@ -1,11 +1,31 @@
 import React, { Component, Fragment } from "react"
 import { Container, H1, Text, Body, Thumbnail } from "native-base"
-import { Image, TouchableOpacity } from "react-native"
+import { Image, TouchableOpacity, Alert } from "react-native"
 import { Col, Row, Grid } from "react-native-easy-grid"
 
 export default class Avaliar extends Component {
   constructor(props) {
     super(props)
+  }
+
+  registrarDenuncia = () => {
+    Alert.alert(
+      "Registrar Denúncia",
+      "Nos ajude a melhorar nosso sistema de registro. Envie sua RECLAMAÇÃO ou DENÚNCIA que nós teremos o prazer em te ajudar :D",
+      [
+        {
+          text: "Cancelar",
+          style: "cancel"
+        },
+        {
+          text: "Enviar Denúncia",
+          onPress: () => {
+            this.props.navigation.navigate("RegistrarDenuncia")
+          }
+        }
+      ],
+      { cancelable: false }
+    )
   }
 
   render() {
@@ -42,7 +62,7 @@ export default class Avaliar extends Component {
               <TouchableOpacity
                 button
                 onPress={() => {
-                  this.props.navigation.navigate("RegistrarDenuncia")
+                  this.registrarDenuncia()
                 }}
               >
                 <Image
