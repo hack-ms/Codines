@@ -46,7 +46,6 @@ export default class Index extends Component {
               <Text>Anexar uma Imagem</Text>
             </Button>
             <Button
-              iconLeft
               style={{
                 marginTop: 50,
                 justifyContent: "center",
