@@ -51,6 +51,9 @@ export default class Index extends Component {
                 justifyContent: "center",
                 backgroundColor: "#a7d046"
               }}
+              onPress={() => {
+                this.props.navigation.navigate("DenunciaRegistrada")
+              }}
             >
               <Text>Registrar Denúncia</Text>
             </Button>
