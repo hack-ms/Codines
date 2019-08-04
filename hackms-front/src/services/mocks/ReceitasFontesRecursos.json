@@ -1,0 +1,254 @@
+[
+  {
+    "id": 2,
+    "descricao": "IRRF",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 3,
+    "descricao": "IPVA",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 4,
+    "descricao": "ITCD",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 5,
+    "descricao": "ICMS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 6,
+    "descricao": "TAXAS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 7,
+    "descricao": "TAXAS PELO EXERCÍCIO PELO PODER DE POLÍCIA",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 8,
+    "descricao": "RECEITAS PREVIDENCIARIAS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 9,
+    "descricao": "RECEITAS IMOBILIARIAS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 10,
+    "descricao": "RECEITAS DE VALORES MOBILIARIOS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 11,
+    "descricao": "COMPENSACOES FINANCEIRAS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 12,
+    "descricao": "RECEITA DE SERVICOS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 13,
+    "descricao": "FPE",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 14,
+    "descricao": "COTA-PARTE IPI",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 15,
+    "descricao": "CIDE",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 16,
+    "descricao": "COMPENSAÇÃO DE PROD. NATURAIS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 17,
+    "descricao": "TRANSF. DO SUS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 18,
+    "descricao": "TRANSF. DO FNDE",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 19,
+    "descricao": "ICMS DESONERAÇÃO",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 20,
+    "descricao": "CONVENIOS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 21,
+    "descricao": "OUTRAS TRANSFERENCIAS DA UNIAO",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 22,
+    "descricao": "OUTRAS TRANSFERÊNCIAS DOS MUNICÍPIOS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 23,
+    "descricao": "TRANSFERENCIAS DE INSTITUICOES PRIVADAS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 24,
+    "descricao": "FUNDEB",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 25,
+    "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 26,
+    "descricao": "TRANSFERENCIAS DE PESSOAS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 27,
+    "descricao": "MULTAS E JUROS DE MORA",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 28,
+    "descricao": "INDENIZACOES E RESTITUICOES",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 29,
+    "descricao": "RECEITAS DIVERSAS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 30,
+    "descricao": "OPERACOES CREDITO INTERNAS - CONTRATUAIS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 31,
+    "descricao": "OPERACOES DE CREDITO EXTERNAS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 32,
+    "descricao": "ALIENACAO DE BENS MOVEIS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 33,
+    "descricao": "ALIENACAO DE BENS IMOVEIS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 34,
+    "descricao": "AMORTIZACOES DE EMPRESTIMOS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 35,
+    "descricao": "CONVENIOS DA UNIAO E ENTIDADES",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 36,
+    "descricao": "TRANSF RECURSOS DESTINADOS PROGRAMAS EDUCAÇÃO",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 37,
+    "descricao": "TRANSF CONV PROG DE SANEAMENTO BÁSICO",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 38,
+    "descricao": "RECURSOS ARRECADADOS PELO FUNDERSUL",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 39,
+    "descricao": "TRANSFERÊNCIAS DE PESSOAS FÍSICAS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 40,
+    "descricao": "OUTRAS RECEITAS DE CAPITAL",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 41,
+    "descricao": "CONTRIB PREVIDENCIARIAS REGIME PROPRIO",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 42,
+    "descricao": "OUTRAS RECEITAS CORRENTES-INTRA ORCAMENTARIAS",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  },
+  {
+    "id": 43,
+    "descricao": "DEDUÇÕES",
+    "created_at": "2019-08-03 18:04:50",
+    "updated_at": "2019-08-03 18:04:50"
+  }
+]

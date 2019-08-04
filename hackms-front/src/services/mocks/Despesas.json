@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "total_liquidado": "1227345875.67",
+    "total_empenhado": "1464852875.15",
+    "total_pago": "848744070.25",
+    "data_inicio": "2019-01-01 00:00:00",
+    "data_termino": "2019-01-31 00:00:00",
+    "exercicio": 2019
+  },
+  {
+    "id": 2,
+    "total_liquidado": "1024150132.63",
+    "total_empenhado": "1162057893.83",
+    "total_pago": "1221046276.82",
+    "data_inicio": "2019-02-01 00:00:00",
+    "data_termino": "2019-02-28 00:00:00",
+    "exercicio": 2019
+  },
+  {
+    "id": 3,
+    "total_liquidado": "1023426273.83",
+    "total_empenhado": "1151381677.39",
+    "total_pago": "703194153.54",
+    "data_inicio": "2019-03-01 00:00:00",
+    "data_termino": "2019-03-31 00:00:00",
+    "exercicio": 2019
+  },
+  {
+    "id": 4,
+    "total_liquidado": "987786018.12",
+    "total_empenhado": "1043999879.45",
+    "total_pago": "964470963.74",
+    "data_inicio": "2019-04-01 00:00:00",
+    "data_termino": "2019-04-30 00:00:00",
+    "exercicio": 2019
+  },
+  {
+    "id": 5,
+    "total_liquidado": "1041405355.66",
+    "total_empenhado": "1114445561.51",
+    "total_pago": "947080615.46",
+    "data_inicio": "2019-05-01 00:00:00",
+    "data_termino": "2019-05-31 00:00:00",
+    "exercicio": 2019
+  },
+  {
+    "id": 6,
+    "total_liquidado": "967270949.63",
+    "total_empenhado": "1004180408.88",
+    "total_pago": "959509880.18",
+    "data_inicio": "2019-06-01 00:00:00",
+    "data_termino": "2019-06-30 00:00:00",
+    "exercicio": 2019
+  }
+]

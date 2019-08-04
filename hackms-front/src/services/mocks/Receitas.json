@@ -1,0 +1,3614 @@
+[
+  {
+    "id": 1,
+    "fonte_recurso_id": 2,
+    "valor_previsto": "949714500.00",
+    "valor_arrecadado": "512758985.74",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 2,
+      "descricao": "IRRF",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 2,
+    "fonte_recurso_id": 3,
+    "valor_previsto": "695212300.00",
+    "valor_arrecadado": "601332218.01",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 3,
+      "descricao": "IPVA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 3,
+    "fonte_recurso_id": 4,
+    "valor_previsto": "142312000.00",
+    "valor_arrecadado": "86471790.77",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 4,
+      "descricao": "ITCD",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 4,
+    "fonte_recurso_id": 5,
+    "valor_previsto": "8899909800.00",
+    "valor_arrecadado": "5049964710.50",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 5,
+      "descricao": "ICMS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 5,
+    "fonte_recurso_id": 6,
+    "valor_previsto": "125173100.00",
+    "valor_arrecadado": "63232027.92",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 6,
+      "descricao": "TAXAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 6,
+    "fonte_recurso_id": 7,
+    "valor_previsto": "2034100.00",
+    "valor_arrecadado": "1266850.94",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 7,
+      "descricao": "TAXAS PELO EXERCÍCIO PELO PODER DE POLÍCIA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 7,
+    "fonte_recurso_id": 8,
+    "valor_previsto": "675109000.00",
+    "valor_arrecadado": "340008562.24",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 8,
+      "descricao": "RECEITAS PREVIDENCIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 8,
+    "fonte_recurso_id": 9,
+    "valor_previsto": "1248200.00",
+    "valor_arrecadado": "831305.11",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 9,
+      "descricao": "RECEITAS IMOBILIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 9,
+    "fonte_recurso_id": 10,
+    "valor_previsto": "61853300.00",
+    "valor_arrecadado": "33674409.49",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 10,
+      "descricao": "RECEITAS DE VALORES MOBILIARIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 10,
+    "fonte_recurso_id": 11,
+    "valor_previsto": "25200000.00",
+    "valor_arrecadado": "20736586.83",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 11,
+      "descricao": "COMPENSACOES FINANCEIRAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 11,
+    "fonte_recurso_id": 12,
+    "valor_previsto": "730773700.00",
+    "valor_arrecadado": "475321250.34",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 12,
+      "descricao": "RECEITA DE SERVICOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 12,
+    "fonte_recurso_id": 13,
+    "valor_previsto": "1218808000.00",
+    "valor_arrecadado": "791371123.08",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 13,
+      "descricao": "FPE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 13,
+    "fonte_recurso_id": 14,
+    "valor_previsto": "105726200.00",
+    "valor_arrecadado": "60064144.69",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 14,
+      "descricao": "COTA-PARTE IPI",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 14,
+    "fonte_recurso_id": 15,
+    "valor_previsto": "29500000.00",
+    "valor_arrecadado": "16160228.61",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 15,
+      "descricao": "CIDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 15,
+    "fonte_recurso_id": 16,
+    "valor_previsto": "14356300.00",
+    "valor_arrecadado": "8184210.70",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 16,
+      "descricao": "COMPENSAÇÃO DE PROD. NATURAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 16,
+    "fonte_recurso_id": 17,
+    "valor_previsto": "172094000.00",
+    "valor_arrecadado": "74329860.97",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 17,
+      "descricao": "TRANSF. DO SUS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 17,
+    "fonte_recurso_id": 18,
+    "valor_previsto": "91926100.00",
+    "valor_arrecadado": "54475903.60",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 18,
+      "descricao": "TRANSF. DO FNDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 18,
+    "fonte_recurso_id": 19,
+    "valor_previsto": "18217000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 19,
+      "descricao": "ICMS DESONERAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 19,
+    "fonte_recurso_id": 20,
+    "valor_previsto": "111285100.00",
+    "valor_arrecadado": "7262438.40",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 20,
+      "descricao": "CONVENIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 20,
+    "fonte_recurso_id": 21,
+    "valor_previsto": "92716500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 21,
+      "descricao": "OUTRAS TRANSFERENCIAS DA UNIAO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 21,
+    "fonte_recurso_id": 22,
+    "valor_previsto": "386600.00",
+    "valor_arrecadado": "2482720.92",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 22,
+      "descricao": "OUTRAS TRANSFERÊNCIAS DOS MUNICÍPIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 22,
+    "fonte_recurso_id": 23,
+    "valor_previsto": "731302900.00",
+    "valor_arrecadado": "396699110.64",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 23,
+      "descricao": "TRANSFERENCIAS DE INSTITUICOES PRIVADAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 23,
+    "fonte_recurso_id": 24,
+    "valor_previsto": "1153811400.00",
+    "valor_arrecadado": "647572378.18",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 24,
+      "descricao": "FUNDEB",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 24,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "4000000.00",
+    "valor_arrecadado": "3375.14",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 25,
+    "fonte_recurso_id": 26,
+    "valor_previsto": "700000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 26,
+      "descricao": "TRANSFERENCIAS DE PESSOAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 26,
+    "fonte_recurso_id": 27,
+    "valor_previsto": "37927300.00",
+    "valor_arrecadado": "24759512.86",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 27,
+      "descricao": "MULTAS E JUROS DE MORA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 27,
+    "fonte_recurso_id": 28,
+    "valor_previsto": "15542300.00",
+    "valor_arrecadado": "14649113.00",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 28,
+      "descricao": "INDENIZACOES E RESTITUICOES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 28,
+    "fonte_recurso_id": 29,
+    "valor_previsto": "3745300.00",
+    "valor_arrecadado": "8982592.78",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 29,
+      "descricao": "RECEITAS DIVERSAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 29,
+    "fonte_recurso_id": 30,
+    "valor_previsto": "10788200.00",
+    "valor_arrecadado": "11562423.89",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 30,
+      "descricao": "OPERACOES CREDITO INTERNAS - CONTRATUAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 30,
+    "fonte_recurso_id": 31,
+    "valor_previsto": "12665700.00",
+    "valor_arrecadado": "0.00",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 31,
+      "descricao": "OPERACOES DE CREDITO EXTERNAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 31,
+    "fonte_recurso_id": 32,
+    "valor_previsto": "5001000.00",
+    "valor_arrecadado": "823165.44",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 32,
+      "descricao": "ALIENACAO DE BENS MOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 32,
+    "fonte_recurso_id": 33,
+    "valor_previsto": "3807400.00",
+    "valor_arrecadado": "810465.44",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 33,
+      "descricao": "ALIENACAO DE BENS IMOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 33,
+    "fonte_recurso_id": 34,
+    "valor_previsto": "5209900.00",
+    "valor_arrecadado": "4519059.13",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 34,
+      "descricao": "AMORTIZACOES DE EMPRESTIMOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 34,
+    "fonte_recurso_id": 35,
+    "valor_previsto": "362988600.00",
+    "valor_arrecadado": "35099446.08",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 35,
+      "descricao": "CONVENIOS DA UNIAO E ENTIDADES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 35,
+    "fonte_recurso_id": 36,
+    "valor_previsto": "19642100.00",
+    "valor_arrecadado": "6127834.25",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 36,
+      "descricao": "TRANSF RECURSOS DESTINADOS PROGRAMAS EDUCAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 36,
+    "fonte_recurso_id": 37,
+    "valor_previsto": "1285600.00",
+    "valor_arrecadado": "8800793.82",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 37,
+      "descricao": "TRANSF CONV PROG DE SANEAMENTO BÁSICO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 37,
+    "fonte_recurso_id": 38,
+    "valor_previsto": "642644900.00",
+    "valor_arrecadado": "403056748.94",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 38,
+      "descricao": "RECURSOS ARRECADADOS PELO FUNDERSUL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 38,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "1000000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 39,
+    "fonte_recurso_id": 39,
+    "valor_previsto": "520700.00",
+    "valor_arrecadado": "0.00",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 39,
+      "descricao": "TRANSFERÊNCIAS DE PESSOAS FÍSICAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 40,
+    "fonte_recurso_id": 40,
+    "valor_previsto": "620217500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 40,
+      "descricao": "OUTRAS RECEITAS DE CAPITAL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 41,
+    "fonte_recurso_id": 41,
+    "valor_previsto": "931125100.00",
+    "valor_arrecadado": "882448691.38",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 41,
+      "descricao": "CONTRIB PREVIDENCIARIAS REGIME PROPRIO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 42,
+    "fonte_recurso_id": 42,
+    "valor_previsto": "424735400.00",
+    "valor_arrecadado": "364221093.42",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 42,
+      "descricao": "OUTRAS RECEITAS CORRENTES-INTRA ORCAMENTARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 43,
+    "fonte_recurso_id": 43,
+    "valor_previsto": "-4290581500.00",
+    "valor_arrecadado": "-2514293839.10",
+    "mes": 1,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 43,
+      "descricao": "DEDUÇÕES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 44,
+    "fonte_recurso_id": 2,
+    "valor_previsto": "949714500.00",
+    "valor_arrecadado": "46294688.60",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 2,
+      "descricao": "IRRF",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 45,
+    "fonte_recurso_id": 3,
+    "valor_previsto": "695212300.00",
+    "valor_arrecadado": "57205801.26",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 3,
+      "descricao": "IPVA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 46,
+    "fonte_recurso_id": 4,
+    "valor_previsto": "142312000.00",
+    "valor_arrecadado": "14783432.28",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 4,
+      "descricao": "ITCD",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 47,
+    "fonte_recurso_id": 5,
+    "valor_previsto": "8899909800.00",
+    "valor_arrecadado": "711196237.32",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 5,
+      "descricao": "ICMS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 48,
+    "fonte_recurso_id": 6,
+    "valor_previsto": "125173100.00",
+    "valor_arrecadado": "4354489.76",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 6,
+      "descricao": "TAXAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 49,
+    "fonte_recurso_id": 7,
+    "valor_previsto": "2034100.00",
+    "valor_arrecadado": "198237.88",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 7,
+      "descricao": "TAXAS PELO EXERCÍCIO PELO PODER DE POLÍCIA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 50,
+    "fonte_recurso_id": 8,
+    "valor_previsto": "675109000.00",
+    "valor_arrecadado": "35842850.44",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 8,
+      "descricao": "RECEITAS PREVIDENCIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 51,
+    "fonte_recurso_id": 9,
+    "valor_previsto": "1248200.00",
+    "valor_arrecadado": "105763.22",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 9,
+      "descricao": "RECEITAS IMOBILIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 52,
+    "fonte_recurso_id": 10,
+    "valor_previsto": "61853300.00",
+    "valor_arrecadado": "4285135.20",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 10,
+      "descricao": "RECEITAS DE VALORES MOBILIARIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 53,
+    "fonte_recurso_id": 11,
+    "valor_previsto": "25200000.00",
+    "valor_arrecadado": "828598.26",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 11,
+      "descricao": "COMPENSACOES FINANCEIRAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 54,
+    "fonte_recurso_id": 12,
+    "valor_previsto": "730773700.00",
+    "valor_arrecadado": "59247261.19",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 12,
+      "descricao": "RECEITA DE SERVICOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 55,
+    "fonte_recurso_id": 13,
+    "valor_previsto": "1218808000.00",
+    "valor_arrecadado": "139239331.03",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 13,
+      "descricao": "FPE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 56,
+    "fonte_recurso_id": 14,
+    "valor_previsto": "105726200.00",
+    "valor_arrecadado": "8740908.78",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 14,
+      "descricao": "COTA-PARTE IPI",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 57,
+    "fonte_recurso_id": 15,
+    "valor_previsto": "29500000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 15,
+      "descricao": "CIDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 58,
+    "fonte_recurso_id": 16,
+    "valor_previsto": "14356300.00",
+    "valor_arrecadado": "966158.84",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 16,
+      "descricao": "COMPENSAÇÃO DE PROD. NATURAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 59,
+    "fonte_recurso_id": 17,
+    "valor_previsto": "172094000.00",
+    "valor_arrecadado": "12859393.14",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 17,
+      "descricao": "TRANSF. DO SUS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 60,
+    "fonte_recurso_id": 18,
+    "valor_previsto": "91926100.00",
+    "valor_arrecadado": "8935874.86",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 18,
+      "descricao": "TRANSF. DO FNDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 61,
+    "fonte_recurso_id": 19,
+    "valor_previsto": "18217000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 19,
+      "descricao": "ICMS DESONERAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 62,
+    "fonte_recurso_id": 20,
+    "valor_previsto": "111285100.00",
+    "valor_arrecadado": "2546860.22",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 20,
+      "descricao": "CONVENIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 63,
+    "fonte_recurso_id": 21,
+    "valor_previsto": "92716500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 21,
+      "descricao": "OUTRAS TRANSFERENCIAS DA UNIAO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 64,
+    "fonte_recurso_id": 22,
+    "valor_previsto": "386600.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 22,
+      "descricao": "OUTRAS TRANSFERÊNCIAS DOS MUNICÍPIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 65,
+    "fonte_recurso_id": 23,
+    "valor_previsto": "731302900.00",
+    "valor_arrecadado": "57068144.05",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 23,
+      "descricao": "TRANSFERENCIAS DE INSTITUICOES PRIVADAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 66,
+    "fonte_recurso_id": 24,
+    "valor_previsto": "1153811400.00",
+    "valor_arrecadado": "107224946.71",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 24,
+      "descricao": "FUNDEB",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 67,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "4000000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 68,
+    "fonte_recurso_id": 26,
+    "valor_previsto": "700000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 26,
+      "descricao": "TRANSFERENCIAS DE PESSOAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 69,
+    "fonte_recurso_id": 27,
+    "valor_previsto": "37927300.00",
+    "valor_arrecadado": "3184576.93",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 27,
+      "descricao": "MULTAS E JUROS DE MORA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 70,
+    "fonte_recurso_id": 28,
+    "valor_previsto": "15542300.00",
+    "valor_arrecadado": "709764.96",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 28,
+      "descricao": "INDENIZACOES E RESTITUICOES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 71,
+    "fonte_recurso_id": 29,
+    "valor_previsto": "3745300.00",
+    "valor_arrecadado": "1445862.07",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 29,
+      "descricao": "RECEITAS DIVERSAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 72,
+    "fonte_recurso_id": 30,
+    "valor_previsto": "10788200.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 30,
+      "descricao": "OPERACOES CREDITO INTERNAS - CONTRATUAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 73,
+    "fonte_recurso_id": 31,
+    "valor_previsto": "12665700.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 31,
+      "descricao": "OPERACOES DE CREDITO EXTERNAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 74,
+    "fonte_recurso_id": 32,
+    "valor_previsto": "5001000.00",
+    "valor_arrecadado": "52951.53",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 32,
+      "descricao": "ALIENACAO DE BENS MOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 75,
+    "fonte_recurso_id": 33,
+    "valor_previsto": "3807400.00",
+    "valor_arrecadado": "52951.53",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 33,
+      "descricao": "ALIENACAO DE BENS IMOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 76,
+    "fonte_recurso_id": 34,
+    "valor_previsto": "5209900.00",
+    "valor_arrecadado": "636356.81",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 34,
+      "descricao": "AMORTIZACOES DE EMPRESTIMOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 77,
+    "fonte_recurso_id": 35,
+    "valor_previsto": "362988600.00",
+    "valor_arrecadado": "12299982.91",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 35,
+      "descricao": "CONVENIOS DA UNIAO E ENTIDADES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 78,
+    "fonte_recurso_id": 36,
+    "valor_previsto": "19642100.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 36,
+      "descricao": "TRANSF RECURSOS DESTINADOS PROGRAMAS EDUCAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 79,
+    "fonte_recurso_id": 37,
+    "valor_previsto": "1285600.00",
+    "valor_arrecadado": "1732668.28",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 37,
+      "descricao": "TRANSF CONV PROG DE SANEAMENTO BÁSICO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 80,
+    "fonte_recurso_id": 38,
+    "valor_previsto": "642644900.00",
+    "valor_arrecadado": "58329458.89",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 38,
+      "descricao": "RECURSOS ARRECADADOS PELO FUNDERSUL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 81,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "1000000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 82,
+    "fonte_recurso_id": 39,
+    "valor_previsto": "520700.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 39,
+      "descricao": "TRANSFERÊNCIAS DE PESSOAS FÍSICAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 83,
+    "fonte_recurso_id": 40,
+    "valor_previsto": "620217500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 40,
+      "descricao": "OUTRAS RECEITAS DE CAPITAL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 84,
+    "fonte_recurso_id": 41,
+    "valor_previsto": "931125100.00",
+    "valor_arrecadado": "90911460.41",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 41,
+      "descricao": "CONTRIB PREVIDENCIARIAS REGIME PROPRIO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 85,
+    "fonte_recurso_id": 42,
+    "valor_previsto": "424735400.00",
+    "valor_arrecadado": "42532839.63",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 42,
+      "descricao": "OUTRAS RECEITAS CORRENTES-INTRA ORCAMENTARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 86,
+    "fonte_recurso_id": 43,
+    "valor_previsto": "-4290581500.00",
+    "valor_arrecadado": "-351733060.06",
+    "mes": 2,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 43,
+      "descricao": "DEDUÇÕES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 87,
+    "fonte_recurso_id": 2,
+    "valor_previsto": "949714500.00",
+    "valor_arrecadado": "45701880.09",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 2,
+      "descricao": "IRRF",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 88,
+    "fonte_recurso_id": 3,
+    "valor_previsto": "695212300.00",
+    "valor_arrecadado": "49735463.99",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 3,
+      "descricao": "IPVA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 89,
+    "fonte_recurso_id": 4,
+    "valor_previsto": "142312000.00",
+    "valor_arrecadado": "9675585.84",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 4,
+      "descricao": "ITCD",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 90,
+    "fonte_recurso_id": 5,
+    "valor_previsto": "8899909800.00",
+    "valor_arrecadado": "720230018.72",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 5,
+      "descricao": "ICMS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 91,
+    "fonte_recurso_id": 6,
+    "valor_previsto": "125173100.00",
+    "valor_arrecadado": "18918753.07",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 6,
+      "descricao": "TAXAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 92,
+    "fonte_recurso_id": 7,
+    "valor_previsto": "2034100.00",
+    "valor_arrecadado": "180137.23",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 7,
+      "descricao": "TAXAS PELO EXERCÍCIO PELO PODER DE POLÍCIA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 93,
+    "fonte_recurso_id": 8,
+    "valor_previsto": "675109000.00",
+    "valor_arrecadado": "67774920.89",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 8,
+      "descricao": "RECEITAS PREVIDENCIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 94,
+    "fonte_recurso_id": 9,
+    "valor_previsto": "1248200.00",
+    "valor_arrecadado": "172534.64",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 9,
+      "descricao": "RECEITAS IMOBILIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 95,
+    "fonte_recurso_id": 10,
+    "valor_previsto": "61853300.00",
+    "valor_arrecadado": "3703891.64",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 10,
+      "descricao": "RECEITAS DE VALORES MOBILIARIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 96,
+    "fonte_recurso_id": 11,
+    "valor_previsto": "25200000.00",
+    "valor_arrecadado": "235750.67",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 11,
+      "descricao": "COMPENSACOES FINANCEIRAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 97,
+    "fonte_recurso_id": 12,
+    "valor_previsto": "730773700.00",
+    "valor_arrecadado": "65224610.94",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 12,
+      "descricao": "RECEITA DE SERVICOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 98,
+    "fonte_recurso_id": 13,
+    "valor_previsto": "1218808000.00",
+    "valor_arrecadado": "106049141.79",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 13,
+      "descricao": "FPE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 99,
+    "fonte_recurso_id": 14,
+    "valor_previsto": "105726200.00",
+    "valor_arrecadado": "8441809.63",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 14,
+      "descricao": "COTA-PARTE IPI",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 100,
+    "fonte_recurso_id": 15,
+    "valor_previsto": "29500000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 15,
+      "descricao": "CIDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 101,
+    "fonte_recurso_id": 16,
+    "valor_previsto": "14356300.00",
+    "valor_arrecadado": "948438.59",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 16,
+      "descricao": "COMPENSAÇÃO DE PROD. NATURAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 102,
+    "fonte_recurso_id": 17,
+    "valor_previsto": "172094000.00",
+    "valor_arrecadado": "9312452.13",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 17,
+      "descricao": "TRANSF. DO SUS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 103,
+    "fonte_recurso_id": 18,
+    "valor_previsto": "91926100.00",
+    "valor_arrecadado": "7010913.22",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 18,
+      "descricao": "TRANSF. DO FNDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 104,
+    "fonte_recurso_id": 19,
+    "valor_previsto": "18217000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 19,
+      "descricao": "ICMS DESONERAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 105,
+    "fonte_recurso_id": 20,
+    "valor_previsto": "111285100.00",
+    "valor_arrecadado": "862059.01",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 20,
+      "descricao": "CONVENIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 106,
+    "fonte_recurso_id": 21,
+    "valor_previsto": "92716500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 21,
+      "descricao": "OUTRAS TRANSFERENCIAS DA UNIAO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 107,
+    "fonte_recurso_id": 22,
+    "valor_previsto": "386600.00",
+    "valor_arrecadado": "239146.52",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 22,
+      "descricao": "OUTRAS TRANSFERÊNCIAS DOS MUNICÍPIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 108,
+    "fonte_recurso_id": 23,
+    "valor_previsto": "731302900.00",
+    "valor_arrecadado": "56627184.64",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 23,
+      "descricao": "TRANSFERENCIAS DE INSTITUICOES PRIVADAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 109,
+    "fonte_recurso_id": 24,
+    "valor_previsto": "1153811400.00",
+    "valor_arrecadado": "78504689.42",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 24,
+      "descricao": "FUNDEB",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 110,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "4000000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 111,
+    "fonte_recurso_id": 26,
+    "valor_previsto": "700000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 26,
+      "descricao": "TRANSFERENCIAS DE PESSOAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 112,
+    "fonte_recurso_id": 27,
+    "valor_previsto": "37927300.00",
+    "valor_arrecadado": "2581976.18",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 27,
+      "descricao": "MULTAS E JUROS DE MORA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 113,
+    "fonte_recurso_id": 28,
+    "valor_previsto": "15542300.00",
+    "valor_arrecadado": "1100373.38",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 28,
+      "descricao": "INDENIZACOES E RESTITUICOES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 114,
+    "fonte_recurso_id": 29,
+    "valor_previsto": "3745300.00",
+    "valor_arrecadado": "979592.57",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 29,
+      "descricao": "RECEITAS DIVERSAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 115,
+    "fonte_recurso_id": 30,
+    "valor_previsto": "10788200.00",
+    "valor_arrecadado": "0.00",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 30,
+      "descricao": "OPERACOES CREDITO INTERNAS - CONTRATUAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 116,
+    "fonte_recurso_id": 31,
+    "valor_previsto": "12665700.00",
+    "valor_arrecadado": "121875.00",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 31,
+      "descricao": "OPERACOES DE CREDITO EXTERNAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 117,
+    "fonte_recurso_id": 32,
+    "valor_previsto": "5001000.00",
+    "valor_arrecadado": "51558.43",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 32,
+      "descricao": "ALIENACAO DE BENS MOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 118,
+    "fonte_recurso_id": 33,
+    "valor_previsto": "3807400.00",
+    "valor_arrecadado": "51558.43",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 33,
+      "descricao": "ALIENACAO DE BENS IMOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 119,
+    "fonte_recurso_id": 34,
+    "valor_previsto": "5209900.00",
+    "valor_arrecadado": "643857.22",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 34,
+      "descricao": "AMORTIZACOES DE EMPRESTIMOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 120,
+    "fonte_recurso_id": 35,
+    "valor_previsto": "362988600.00",
+    "valor_arrecadado": "4477862.85",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 35,
+      "descricao": "CONVENIOS DA UNIAO E ENTIDADES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 121,
+    "fonte_recurso_id": 36,
+    "valor_previsto": "19642100.00",
+    "valor_arrecadado": "2302506.23",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 36,
+      "descricao": "TRANSF RECURSOS DESTINADOS PROGRAMAS EDUCAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 122,
+    "fonte_recurso_id": 37,
+    "valor_previsto": "1285600.00",
+    "valor_arrecadado": "471068.97",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 37,
+      "descricao": "TRANSF CONV PROG DE SANEAMENTO BÁSICO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 123,
+    "fonte_recurso_id": 38,
+    "valor_previsto": "642644900.00",
+    "valor_arrecadado": "59128218.27",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 38,
+      "descricao": "RECURSOS ARRECADADOS PELO FUNDERSUL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 124,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "1000000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 125,
+    "fonte_recurso_id": 39,
+    "valor_previsto": "520700.00",
+    "valor_arrecadado": "0.00",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 39,
+      "descricao": "TRANSFERÊNCIAS DE PESSOAS FÍSICAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 126,
+    "fonte_recurso_id": 40,
+    "valor_previsto": "620217500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 40,
+      "descricao": "OUTRAS RECEITAS DE CAPITAL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 127,
+    "fonte_recurso_id": 41,
+    "valor_previsto": "931125100.00",
+    "valor_arrecadado": "154612652.99",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 41,
+      "descricao": "CONTRIB PREVIDENCIARIAS REGIME PROPRIO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 128,
+    "fonte_recurso_id": 42,
+    "valor_previsto": "424735400.00",
+    "valor_arrecadado": "63032170.75",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 42,
+      "descricao": "OUTRAS RECEITAS CORRENTES-INTRA ORCAMENTARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 129,
+    "fonte_recurso_id": 43,
+    "valor_previsto": "-4290581500.00",
+    "valor_arrecadado": "-343237749.22",
+    "mes": 3,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 43,
+      "descricao": "DEDUÇÕES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 130,
+    "fonte_recurso_id": 2,
+    "valor_previsto": "949714500.00",
+    "valor_arrecadado": "65558385.71",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 2,
+      "descricao": "IRRF",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 131,
+    "fonte_recurso_id": 3,
+    "valor_previsto": "695212300.00",
+    "valor_arrecadado": "56921423.43",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 3,
+      "descricao": "IPVA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 132,
+    "fonte_recurso_id": 4,
+    "valor_previsto": "142312000.00",
+    "valor_arrecadado": "8748173.45",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 4,
+      "descricao": "ITCD",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 133,
+    "fonte_recurso_id": 5,
+    "valor_previsto": "8899909800.00",
+    "valor_arrecadado": "721187487.88",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 5,
+      "descricao": "ICMS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 134,
+    "fonte_recurso_id": 6,
+    "valor_previsto": "125173100.00",
+    "valor_arrecadado": "8128898.71",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 6,
+      "descricao": "TAXAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 135,
+    "fonte_recurso_id": 7,
+    "valor_previsto": "2034100.00",
+    "valor_arrecadado": "0.00",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 7,
+      "descricao": "TAXAS PELO EXERCÍCIO PELO PODER DE POLÍCIA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 136,
+    "fonte_recurso_id": 8,
+    "valor_previsto": "675109000.00",
+    "valor_arrecadado": "46564557.84",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 8,
+      "descricao": "RECEITAS PREVIDENCIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 137,
+    "fonte_recurso_id": 9,
+    "valor_previsto": "1248200.00",
+    "valor_arrecadado": "87741.63",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 9,
+      "descricao": "RECEITAS IMOBILIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 138,
+    "fonte_recurso_id": 10,
+    "valor_previsto": "61853300.00",
+    "valor_arrecadado": "4064527.72",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 10,
+      "descricao": "RECEITAS DE VALORES MOBILIARIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 139,
+    "fonte_recurso_id": 11,
+    "valor_previsto": "25200000.00",
+    "valor_arrecadado": "152464.88",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 11,
+      "descricao": "COMPENSACOES FINANCEIRAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 140,
+    "fonte_recurso_id": 12,
+    "valor_previsto": "730773700.00",
+    "valor_arrecadado": "75382767.90",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 12,
+      "descricao": "RECEITA DE SERVICOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 141,
+    "fonte_recurso_id": 13,
+    "valor_previsto": "1218808000.00",
+    "valor_arrecadado": "101022152.94",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 13,
+      "descricao": "FPE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 142,
+    "fonte_recurso_id": 14,
+    "valor_previsto": "105726200.00",
+    "valor_arrecadado": "8558403.10",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 14,
+      "descricao": "COTA-PARTE IPI",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 143,
+    "fonte_recurso_id": 15,
+    "valor_previsto": "29500000.00",
+    "valor_arrecadado": "5484503.90",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 15,
+      "descricao": "CIDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 144,
+    "fonte_recurso_id": 16,
+    "valor_previsto": "14356300.00",
+    "valor_arrecadado": "819750.13",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 16,
+      "descricao": "COMPENSAÇÃO DE PROD. NATURAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 145,
+    "fonte_recurso_id": 17,
+    "valor_previsto": "172094000.00",
+    "valor_arrecadado": "8790205.96",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 17,
+      "descricao": "TRANSF. DO SUS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 146,
+    "fonte_recurso_id": 18,
+    "valor_previsto": "91926100.00",
+    "valor_arrecadado": "7204188.09",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 18,
+      "descricao": "TRANSF. DO FNDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 147,
+    "fonte_recurso_id": 19,
+    "valor_previsto": "18217000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 19,
+      "descricao": "ICMS DESONERAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 148,
+    "fonte_recurso_id": 20,
+    "valor_previsto": "111285100.00",
+    "valor_arrecadado": "238760.41",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 20,
+      "descricao": "CONVENIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 149,
+    "fonte_recurso_id": 21,
+    "valor_previsto": "92716500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 21,
+      "descricao": "OUTRAS TRANSFERENCIAS DA UNIAO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 150,
+    "fonte_recurso_id": 22,
+    "valor_previsto": "386600.00",
+    "valor_arrecadado": "202530.68",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 22,
+      "descricao": "OUTRAS TRANSFERÊNCIAS DOS MUNICÍPIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 151,
+    "fonte_recurso_id": 23,
+    "valor_previsto": "731302900.00",
+    "valor_arrecadado": "56145684.19",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 23,
+      "descricao": "TRANSFERENCIAS DE INSTITUICOES PRIVADAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 152,
+    "fonte_recurso_id": 24,
+    "valor_previsto": "1153811400.00",
+    "valor_arrecadado": "99124861.11",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 24,
+      "descricao": "FUNDEB",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 153,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "4000000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 154,
+    "fonte_recurso_id": 26,
+    "valor_previsto": "700000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 26,
+      "descricao": "TRANSFERENCIAS DE PESSOAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 155,
+    "fonte_recurso_id": 27,
+    "valor_previsto": "37927300.00",
+    "valor_arrecadado": "3513272.24",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 27,
+      "descricao": "MULTAS E JUROS DE MORA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 156,
+    "fonte_recurso_id": 28,
+    "valor_previsto": "15542300.00",
+    "valor_arrecadado": "2436864.72",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 28,
+      "descricao": "INDENIZACOES E RESTITUICOES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 157,
+    "fonte_recurso_id": 29,
+    "valor_previsto": "3745300.00",
+    "valor_arrecadado": "1267324.96",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 29,
+      "descricao": "RECEITAS DIVERSAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 158,
+    "fonte_recurso_id": 30,
+    "valor_previsto": "10788200.00",
+    "valor_arrecadado": "0.00",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 30,
+      "descricao": "OPERACOES CREDITO INTERNAS - CONTRATUAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 159,
+    "fonte_recurso_id": 31,
+    "valor_previsto": "12665700.00",
+    "valor_arrecadado": "-121875.00",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 31,
+      "descricao": "OPERACOES DE CREDITO EXTERNAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 160,
+    "fonte_recurso_id": 32,
+    "valor_previsto": "5001000.00",
+    "valor_arrecadado": "53606.39",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 32,
+      "descricao": "ALIENACAO DE BENS MOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 161,
+    "fonte_recurso_id": 33,
+    "valor_previsto": "3807400.00",
+    "valor_arrecadado": "53606.39",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 33,
+      "descricao": "ALIENACAO DE BENS IMOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 162,
+    "fonte_recurso_id": 34,
+    "valor_previsto": "5209900.00",
+    "valor_arrecadado": "859856.63",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 34,
+      "descricao": "AMORTIZACOES DE EMPRESTIMOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 163,
+    "fonte_recurso_id": 35,
+    "valor_previsto": "362988600.00",
+    "valor_arrecadado": "2609886.64",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 35,
+      "descricao": "CONVENIOS DA UNIAO E ENTIDADES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 164,
+    "fonte_recurso_id": 36,
+    "valor_previsto": "19642100.00",
+    "valor_arrecadado": "2423854.23",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 36,
+      "descricao": "TRANSF RECURSOS DESTINADOS PROGRAMAS EDUCAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 165,
+    "fonte_recurso_id": 37,
+    "valor_previsto": "1285600.00",
+    "valor_arrecadado": "1524304.19",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 37,
+      "descricao": "TRANSF CONV PROG DE SANEAMENTO BÁSICO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 166,
+    "fonte_recurso_id": 38,
+    "valor_previsto": "642644900.00",
+    "valor_arrecadado": "57328790.37",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 38,
+      "descricao": "RECURSOS ARRECADADOS PELO FUNDERSUL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 167,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "1000000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 168,
+    "fonte_recurso_id": 39,
+    "valor_previsto": "520700.00",
+    "valor_arrecadado": "0.00",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 39,
+      "descricao": "TRANSFERÊNCIAS DE PESSOAS FÍSICAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 169,
+    "fonte_recurso_id": 40,
+    "valor_previsto": "620217500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 40,
+      "descricao": "OUTRAS RECEITAS DE CAPITAL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 170,
+    "fonte_recurso_id": 41,
+    "valor_previsto": "931125100.00",
+    "valor_arrecadado": "105770759.05",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 41,
+      "descricao": "CONTRIB PREVIDENCIARIAS REGIME PROPRIO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 171,
+    "fonte_recurso_id": 42,
+    "valor_previsto": "424735400.00",
+    "valor_arrecadado": "39219299.45",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 42,
+      "descricao": "OUTRAS RECEITAS CORRENTES-INTRA ORCAMENTARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 172,
+    "fonte_recurso_id": 43,
+    "valor_previsto": "-4290581500.00",
+    "valor_arrecadado": "-348106335.76",
+    "mes": 4,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 43,
+      "descricao": "DEDUÇÕES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 173,
+    "fonte_recurso_id": 2,
+    "valor_previsto": "949714500.00",
+    "valor_arrecadado": "41410230.41",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 2,
+      "descricao": "IRRF",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 174,
+    "fonte_recurso_id": 3,
+    "valor_previsto": "695212300.00",
+    "valor_arrecadado": "51737764.99",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 3,
+      "descricao": "IPVA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 175,
+    "fonte_recurso_id": 4,
+    "valor_previsto": "142312000.00",
+    "valor_arrecadado": "14755951.73",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 4,
+      "descricao": "ITCD",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 176,
+    "fonte_recurso_id": 5,
+    "valor_previsto": "8899909800.00",
+    "valor_arrecadado": "712415564.96",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 5,
+      "descricao": "ICMS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 177,
+    "fonte_recurso_id": 6,
+    "valor_previsto": "125173100.00",
+    "valor_arrecadado": "8681796.27",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 6,
+      "descricao": "TAXAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 178,
+    "fonte_recurso_id": 7,
+    "valor_previsto": "2034100.00",
+    "valor_arrecadado": "265015.93",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 7,
+      "descricao": "TAXAS PELO EXERCÍCIO PELO PODER DE POLÍCIA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 179,
+    "fonte_recurso_id": 8,
+    "valor_previsto": "675109000.00",
+    "valor_arrecadado": "32991929.70",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 8,
+      "descricao": "RECEITAS PREVIDENCIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 180,
+    "fonte_recurso_id": 9,
+    "valor_previsto": "1248200.00",
+    "valor_arrecadado": "108225.28",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 9,
+      "descricao": "RECEITAS IMOBILIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 181,
+    "fonte_recurso_id": 10,
+    "valor_previsto": "61853300.00",
+    "valor_arrecadado": "10562585.44",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 10,
+      "descricao": "RECEITAS DE VALORES MOBILIARIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 182,
+    "fonte_recurso_id": 11,
+    "valor_previsto": "25200000.00",
+    "valor_arrecadado": "785859.70",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 11,
+      "descricao": "COMPENSACOES FINANCEIRAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 183,
+    "fonte_recurso_id": 12,
+    "valor_previsto": "730773700.00",
+    "valor_arrecadado": "76066849.62",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 12,
+      "descricao": "RECEITA DE SERVICOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 184,
+    "fonte_recurso_id": 13,
+    "valor_previsto": "1218808000.00",
+    "valor_arrecadado": "130771618.27",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 13,
+      "descricao": "FPE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 185,
+    "fonte_recurso_id": 14,
+    "valor_previsto": "105726200.00",
+    "valor_arrecadado": "8380277.99",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 14,
+      "descricao": "COTA-PARTE IPI",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 186,
+    "fonte_recurso_id": 15,
+    "valor_previsto": "29500000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 15,
+      "descricao": "CIDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 187,
+    "fonte_recurso_id": 16,
+    "valor_previsto": "14356300.00",
+    "valor_arrecadado": "1398924.78",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 16,
+      "descricao": "COMPENSAÇÃO DE PROD. NATURAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 188,
+    "fonte_recurso_id": 17,
+    "valor_previsto": "172094000.00",
+    "valor_arrecadado": "10834105.30",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 17,
+      "descricao": "TRANSF. DO SUS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 189,
+    "fonte_recurso_id": 18,
+    "valor_previsto": "91926100.00",
+    "valor_arrecadado": "7134539.79",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 18,
+      "descricao": "TRANSF. DO FNDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 190,
+    "fonte_recurso_id": 19,
+    "valor_previsto": "18217000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 19,
+      "descricao": "ICMS DESONERAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 191,
+    "fonte_recurso_id": 20,
+    "valor_previsto": "111285100.00",
+    "valor_arrecadado": "1274631.79",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 20,
+      "descricao": "CONVENIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 192,
+    "fonte_recurso_id": 21,
+    "valor_previsto": "92716500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 21,
+      "descricao": "OUTRAS TRANSFERENCIAS DA UNIAO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 193,
+    "fonte_recurso_id": 22,
+    "valor_previsto": "386600.00",
+    "valor_arrecadado": "234922.23",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 22,
+      "descricao": "OUTRAS TRANSFERÊNCIAS DOS MUNICÍPIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 194,
+    "fonte_recurso_id": 23,
+    "valor_previsto": "731302900.00",
+    "valor_arrecadado": "56144021.52",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 23,
+      "descricao": "TRANSFERENCIAS DE INSTITUICOES PRIVADAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 195,
+    "fonte_recurso_id": 24,
+    "valor_previsto": "1153811400.00",
+    "valor_arrecadado": "85135303.90",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 24,
+      "descricao": "FUNDEB",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 196,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "4000000.00",
+    "valor_arrecadado": "3375.14",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 197,
+    "fonte_recurso_id": 26,
+    "valor_previsto": "700000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 26,
+      "descricao": "TRANSFERENCIAS DE PESSOAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 198,
+    "fonte_recurso_id": 27,
+    "valor_previsto": "37927300.00",
+    "valor_arrecadado": "4470111.76",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 27,
+      "descricao": "MULTAS E JUROS DE MORA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 199,
+    "fonte_recurso_id": 28,
+    "valor_previsto": "15542300.00",
+    "valor_arrecadado": "3606648.52",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 28,
+      "descricao": "INDENIZACOES E RESTITUICOES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 200,
+    "fonte_recurso_id": 29,
+    "valor_previsto": "3745300.00",
+    "valor_arrecadado": "1513679.22",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 29,
+      "descricao": "RECEITAS DIVERSAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 201,
+    "fonte_recurso_id": 30,
+    "valor_previsto": "10788200.00",
+    "valor_arrecadado": "0.00",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 30,
+      "descricao": "OPERACOES CREDITO INTERNAS - CONTRATUAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 202,
+    "fonte_recurso_id": 31,
+    "valor_previsto": "12665700.00",
+    "valor_arrecadado": "0.00",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 31,
+      "descricao": "OPERACOES DE CREDITO EXTERNAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 203,
+    "fonte_recurso_id": 32,
+    "valor_previsto": "5001000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 32,
+      "descricao": "ALIENACAO DE BENS MOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 204,
+    "fonte_recurso_id": 33,
+    "valor_previsto": "3807400.00",
+    "valor_arrecadado": "0.00",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 33,
+      "descricao": "ALIENACAO DE BENS IMOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 205,
+    "fonte_recurso_id": 34,
+    "valor_previsto": "5209900.00",
+    "valor_arrecadado": "814195.20",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 34,
+      "descricao": "AMORTIZACOES DE EMPRESTIMOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 206,
+    "fonte_recurso_id": 35,
+    "valor_previsto": "362988600.00",
+    "valor_arrecadado": "4241540.93",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 35,
+      "descricao": "CONVENIOS DA UNIAO E ENTIDADES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 207,
+    "fonte_recurso_id": 36,
+    "valor_previsto": "19642100.00",
+    "valor_arrecadado": "918799.21",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 36,
+      "descricao": "TRANSF RECURSOS DESTINADOS PROGRAMAS EDUCAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 208,
+    "fonte_recurso_id": 37,
+    "valor_previsto": "1285600.00",
+    "valor_arrecadado": "424863.14",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 37,
+      "descricao": "TRANSF CONV PROG DE SANEAMENTO BÁSICO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 209,
+    "fonte_recurso_id": 38,
+    "valor_previsto": "642644900.00",
+    "valor_arrecadado": "56341932.34",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 38,
+      "descricao": "RECURSOS ARRECADADOS PELO FUNDERSUL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 210,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "1000000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 211,
+    "fonte_recurso_id": 39,
+    "valor_previsto": "520700.00",
+    "valor_arrecadado": "0.00",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 39,
+      "descricao": "TRANSFERÊNCIAS DE PESSOAS FÍSICAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 212,
+    "fonte_recurso_id": 40,
+    "valor_previsto": "620217500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 40,
+      "descricao": "OUTRAS RECEITAS DE CAPITAL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 213,
+    "fonte_recurso_id": 41,
+    "valor_previsto": "931125100.00",
+    "valor_arrecadado": "59372845.50",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 41,
+      "descricao": "CONTRIB PREVIDENCIARIAS REGIME PROPRIO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 214,
+    "fonte_recurso_id": 42,
+    "valor_previsto": "424735400.00",
+    "valor_arrecadado": "12451843.52",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 42,
+      "descricao": "OUTRAS RECEITAS CORRENTES-INTRA ORCAMENTARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 215,
+    "fonte_recurso_id": 43,
+    "valor_previsto": "-4290581500.00",
+    "valor_arrecadado": "-347212376.34",
+    "mes": 5,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 43,
+      "descricao": "DEDUÇÕES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 216,
+    "fonte_recurso_id": 2,
+    "valor_previsto": "949714500.00",
+    "valor_arrecadado": "255387165.09",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 2,
+      "descricao": "IRRF",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 217,
+    "fonte_recurso_id": 3,
+    "valor_previsto": "695212300.00",
+    "valor_arrecadado": "25507359.68",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 3,
+      "descricao": "IPVA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 218,
+    "fonte_recurso_id": 4,
+    "valor_previsto": "142312000.00",
+    "valor_arrecadado": "10392269.77",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 4,
+      "descricao": "ITCD",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 219,
+    "fonte_recurso_id": 5,
+    "valor_previsto": "8899909800.00",
+    "valor_arrecadado": "722827291.83",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 5,
+      "descricao": "ICMS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 220,
+    "fonte_recurso_id": 6,
+    "valor_previsto": "125173100.00",
+    "valor_arrecadado": "8799662.64",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 6,
+      "descricao": "TAXAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 221,
+    "fonte_recurso_id": 7,
+    "valor_previsto": "2034100.00",
+    "valor_arrecadado": "406142.22",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 7,
+      "descricao": "TAXAS PELO EXERCÍCIO PELO PODER DE POLÍCIA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 222,
+    "fonte_recurso_id": 8,
+    "valor_previsto": "675109000.00",
+    "valor_arrecadado": "32689805.72",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 8,
+      "descricao": "RECEITAS PREVIDENCIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 223,
+    "fonte_recurso_id": 9,
+    "valor_previsto": "1248200.00",
+    "valor_arrecadado": "193716.01",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 9,
+      "descricao": "RECEITAS IMOBILIARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 224,
+    "fonte_recurso_id": 10,
+    "valor_previsto": "61853300.00",
+    "valor_arrecadado": "4057219.58",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 10,
+      "descricao": "RECEITAS DE VALORES MOBILIARIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 225,
+    "fonte_recurso_id": 11,
+    "valor_previsto": "25200000.00",
+    "valor_arrecadado": "2440511.89",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 11,
+      "descricao": "COMPENSACOES FINANCEIRAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 226,
+    "fonte_recurso_id": 12,
+    "valor_previsto": "730773700.00",
+    "valor_arrecadado": "53174756.41",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 12,
+      "descricao": "RECEITA DE SERVICOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 227,
+    "fonte_recurso_id": 13,
+    "valor_previsto": "1218808000.00",
+    "valor_arrecadado": "101892513.95",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 13,
+      "descricao": "FPE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 228,
+    "fonte_recurso_id": 14,
+    "valor_previsto": "105726200.00",
+    "valor_arrecadado": "8788536.33",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 14,
+      "descricao": "COTA-PARTE IPI",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 229,
+    "fonte_recurso_id": 15,
+    "valor_previsto": "29500000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 15,
+      "descricao": "CIDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 230,
+    "fonte_recurso_id": 16,
+    "valor_previsto": "14356300.00",
+    "valor_arrecadado": "1626701.52",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 16,
+      "descricao": "COMPENSAÇÃO DE PROD. NATURAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 231,
+    "fonte_recurso_id": 17,
+    "valor_previsto": "172094000.00",
+    "valor_arrecadado": "9422020.40",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 17,
+      "descricao": "TRANSF. DO SUS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 232,
+    "fonte_recurso_id": 18,
+    "valor_previsto": "91926100.00",
+    "valor_arrecadado": "7996914.88",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 18,
+      "descricao": "TRANSF. DO FNDE",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 233,
+    "fonte_recurso_id": 19,
+    "valor_previsto": "18217000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 19,
+      "descricao": "ICMS DESONERAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 234,
+    "fonte_recurso_id": 20,
+    "valor_previsto": "111285100.00",
+    "valor_arrecadado": "981820.24",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 20,
+      "descricao": "CONVENIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 235,
+    "fonte_recurso_id": 21,
+    "valor_previsto": "92716500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 21,
+      "descricao": "OUTRAS TRANSFERENCIAS DA UNIAO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 236,
+    "fonte_recurso_id": 22,
+    "valor_previsto": "386600.00",
+    "valor_arrecadado": "1669839.37",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 22,
+      "descricao": "OUTRAS TRANSFERÊNCIAS DOS MUNICÍPIOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 237,
+    "fonte_recurso_id": 23,
+    "valor_previsto": "731302900.00",
+    "valor_arrecadado": "57749836.97",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 23,
+      "descricao": "TRANSFERENCIAS DE INSTITUICOES PRIVADAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 238,
+    "fonte_recurso_id": 24,
+    "valor_previsto": "1153811400.00",
+    "valor_arrecadado": "79082064.38",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 24,
+      "descricao": "FUNDEB",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 239,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "4000000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 240,
+    "fonte_recurso_id": 26,
+    "valor_previsto": "700000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 26,
+      "descricao": "TRANSFERENCIAS DE PESSOAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 241,
+    "fonte_recurso_id": 27,
+    "valor_previsto": "37927300.00",
+    "valor_arrecadado": "3367653.47",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 27,
+      "descricao": "MULTAS E JUROS DE MORA",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 242,
+    "fonte_recurso_id": 28,
+    "valor_previsto": "15542300.00",
+    "valor_arrecadado": "1704013.23",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 28,
+      "descricao": "INDENIZACOES E RESTITUICOES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 243,
+    "fonte_recurso_id": 29,
+    "valor_previsto": "3745300.00",
+    "valor_arrecadado": "877228.07",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 29,
+      "descricao": "RECEITAS DIVERSAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 244,
+    "fonte_recurso_id": 30,
+    "valor_previsto": "10788200.00",
+    "valor_arrecadado": "0.00",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 30,
+      "descricao": "OPERACOES CREDITO INTERNAS - CONTRATUAIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 245,
+    "fonte_recurso_id": 31,
+    "valor_previsto": "12665700.00",
+    "valor_arrecadado": "0.00",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 31,
+      "descricao": "OPERACOES DE CREDITO EXTERNAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 246,
+    "fonte_recurso_id": 32,
+    "valor_previsto": "5001000.00",
+    "valor_arrecadado": "610369.53",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 32,
+      "descricao": "ALIENACAO DE BENS MOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 247,
+    "fonte_recurso_id": 33,
+    "valor_previsto": "3807400.00",
+    "valor_arrecadado": "597669.53",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 33,
+      "descricao": "ALIENACAO DE BENS IMOVEIS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 248,
+    "fonte_recurso_id": 34,
+    "valor_previsto": "5209900.00",
+    "valor_arrecadado": "646013.80",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 34,
+      "descricao": "AMORTIZACOES DE EMPRESTIMOS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 249,
+    "fonte_recurso_id": 35,
+    "valor_previsto": "362988600.00",
+    "valor_arrecadado": "3830433.90",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 35,
+      "descricao": "CONVENIOS DA UNIAO E ENTIDADES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 250,
+    "fonte_recurso_id": 36,
+    "valor_previsto": "19642100.00",
+    "valor_arrecadado": "368395.32",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 36,
+      "descricao": "TRANSF RECURSOS DESTINADOS PROGRAMAS EDUCAÇÃO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 251,
+    "fonte_recurso_id": 37,
+    "valor_previsto": "1285600.00",
+    "valor_arrecadado": "1401992.61",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 37,
+      "descricao": "TRANSF CONV PROG DE SANEAMENTO BÁSICO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 252,
+    "fonte_recurso_id": 38,
+    "valor_previsto": "642644900.00",
+    "valor_arrecadado": "59558996.05",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 38,
+      "descricao": "RECURSOS ARRECADADOS PELO FUNDERSUL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 253,
+    "fonte_recurso_id": 25,
+    "valor_previsto": "1000000.00",
+    "valor_arrecadado": "0.00",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 25,
+      "descricao": "TRANSFERÊNCIAS DO EXTERIOR",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 254,
+    "fonte_recurso_id": 39,
+    "valor_previsto": "520700.00",
+    "valor_arrecadado": "0.00",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 39,
+      "descricao": "TRANSFERÊNCIAS DE PESSOAS FÍSICAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 255,
+    "fonte_recurso_id": 40,
+    "valor_previsto": "620217500.00",
+    "valor_arrecadado": "0.00",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 40,
+      "descricao": "OUTRAS RECEITAS DE CAPITAL",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 256,
+    "fonte_recurso_id": 41,
+    "valor_previsto": "931125100.00",
+    "valor_arrecadado": "112879471.72",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 41,
+      "descricao": "CONTRIB PREVIDENCIARIAS REGIME PROPRIO",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 257,
+    "fonte_recurso_id": 42,
+    "valor_previsto": "424735400.00",
+    "valor_arrecadado": "55459788.14",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 42,
+      "descricao": "OUTRAS RECEITAS CORRENTES-INTRA ORCAMENTARIAS",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  },
+  {
+    "id": 258,
+    "fonte_recurso_id": 43,
+    "valor_previsto": "-4290581500.00",
+    "valor_arrecadado": "-329112355.78",
+    "mes": 6,
+    "ano": 2019,
+    "fonte_recurso": {
+      "id": 43,
+      "descricao": "DEDUÇÕES",
+      "created_at": "2019-08-03 18:04:50",
+      "updated_at": "2019-08-03 18:04:50"
+    }
+  }
+]
