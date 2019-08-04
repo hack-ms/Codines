@@ -2,9 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 1603,
-  "expoServerNgrokUrl": "https://4u-vuz.anonymous.hackms-front.exp.direct",
-  "packagerNgrokUrl": "https://packager.4u-vuz.anonymous.hackms-front.exp.direct",
-  "ngrokPid": 1611,
+  "packagerPid": 11776,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
   "webpackServerPort": null
 }
