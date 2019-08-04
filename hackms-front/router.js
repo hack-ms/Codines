@@ -1,5 +1,5 @@
 import { createAppContainer, createStackNavigator } from "react-navigation"
-import Index from "./src/views/Index"
+import Index from "./src/views/Index/Index"
 import Page2 from "./src/views/about"
 import MainContainer from "./src/components/MainContainer"
 import ListagemTipoRepasse from "./src/views/ListagemTipoRepasse"
@@ -11,7 +11,7 @@ import AvaliacaoEnviada from "./src/views/AvaliacaoEnviada/Index"
 
 export const Routes = createAppContainer(
   createStackNavigator({
-    Home: DetalharVerba,
+    Home: Index,
     About: Page2,
     ListagemTipo: ListagemTipoRepasse,
     ListagemAcao: ListagemAcao,
