@@ -1,0 +1,58 @@
+import React, { Component } from "react"
+import MainContainer from "../components/MainContainer"
+import Avaliar from "../components/Avaliar"
+import {
+  List,
+  ListItem,
+  Card,
+  CardItem,
+  Left,
+  Body,
+  Right,
+  H1,
+  H3,
+  Text,
+  View,
+  Container
+} from "native-base"
+import { StyleSheet, TouchableOpacity } from "react-native"
+
+class DetalharVerba extends Component {
+  constructor(props) {
+    super(props)
+  }
+
+  static navigationOptions = {
+    header: null
+  }
+  render() {
+    return (
+      <MainContainer title="Detalhar Verba">
+        <Container
+          style={{ marginHorizontal: 15, marginVertical: 20, height: 450 }}
+        >
+          <H1>Assistência Farmacêutica</H1>
+          <H3 style={{ color: "#666666", marginVertical: 20 }}>
+            Apoio financeiro para distribuição e aquisição de medicamentos
+          </H3>
+
+          <Text style={{ fontWeight: "500", fontSize: 16, marginVertical: 10 }}>
+            Valor Total: 0000,00
+          </Text>
+
+          <Text style={{ fontWeight: "500", fontSize: 16, marginVertical: 10 }}>
+            Valor Desconto: 0000,00
+          </Text>
+
+          <Text style={{ fontWeight: "500", fontSize: 16, marginVertical: 10 }}>
+            Valor Liquidado: 0000,00
+          </Text>
+        </Container>
+        <View style={{ borderBottomWidth: 1, borderBottomColor: "#000" }} />
+        <Avaliar navigation={this.props.navigation} />
+      </MainContainer>
+    )
+  }
+}
+
+export default DetalharVerba

@@ -4,7 +4,7 @@ import {
   Container,
   Content,
   H3,
-  H1,
+  H2,
   View,
   Text,
   Button,
@@ -22,16 +22,18 @@ export default class Index extends Component {
   }
   render() {
     return (
-      <MainContainer title="Denúncia Enviada">
+      <MainContainer title="Participaçao Enviada">
         <Container style={{ paddingHorizontal: 20, paddingVertical: 20 }}>
           <Content>
             <View style={{ alignItems: "center", flex: 1 }}>
-              <H1 style={{ marginVertical: 20 }}> Parabéns! </H1>
+              <H2 style={{ marginVertical: 20, textAlign: "center" }}>
+                Obrigado pela sua participação.
+              </H2>
               <H3 style={{ marginTop: 20 }}>Sua ajuda é sempre bem vinda ;)</H3>
               <Text
                 style={{ marginTop: 10, marginBottom: 50, color: "#b9b9b9" }}
               >
-                Total de estrelas arrecadadas: 3
+                Total de estrelas arrecadadas: 2
               </Text>
               <Image
                 source={require("../../imgs/sucesso-denuncia.png")}
