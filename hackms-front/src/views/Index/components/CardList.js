@@ -3,7 +3,6 @@ import {Text, H3} from 'native-base';
 import {View, StyleSheet, TouchableOpacity} from "react-native";
 
 const CardList = ({item}) => {
-    console.log(item);
   return (
     <TouchableOpacity button onPress={() => item.navigate('Comparativo')}>
         <View style={[style.cardContainer,{ backgroundColor: item.color}]}>

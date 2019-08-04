@@ -2,9 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19004,
-  "packagerPid": 13894,
+  "packagerPid": 17280,
   "expoServerNgrokUrl": "https://2g-h2c.anonymous.hackms-front.exp.direct",
   "packagerNgrokUrl": "https://packager.2g-h2c.anonymous.hackms-front.exp.direct",
-  "ngrokPid": 13919,
+  "ngrokPid": 17305,
   "webpackServerPort": null
 }

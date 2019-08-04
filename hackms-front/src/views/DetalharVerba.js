@@ -16,6 +16,7 @@ import {
   Container
 } from "native-base"
 import { StyleSheet, TouchableOpacity } from "react-native"
+import Grafico from "../components/Grafico";
 
 class DetalharVerba extends Component {
   constructor(props) {
@@ -29,7 +30,7 @@ class DetalharVerba extends Component {
     return (
       <MainContainer title="Detalhar Verba">
         <Container
-          style={{ marginHorizontal: 15, marginVertical: 20, height: 450 }}
+          style={{ marginHorizontal: 15, marginVertical: 20 }}
         >
           <H1>Assistência Farmacêutica</H1>
           <H3 style={{ color: "#666666", marginVertical: 20 }}>
@@ -47,6 +48,7 @@ class DetalharVerba extends Component {
           <Text style={{ fontWeight: "500", fontSize: 16, marginVertical: 10 }}>
             Valor Liquidado: 1.300.000,00
           </Text>
+          <Grafico/>
         </Container>
         <View style={{ borderBottomWidth: 1, borderBottomColor: "#000" }} />
         <Avaliar navigation={this.props.navigation} />
